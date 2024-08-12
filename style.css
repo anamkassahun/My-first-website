@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    background-image: url(photo_2024-08-12_09-42-35.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+p{
+    border: 2px dashed red;
+    border-radius: 5px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(232, 7, 7);
+    font-weight: bold;
+}
+img{
+    margin-left: 50px;
+    width: 400px;
+}
+.line{
+    color: rgb(0, 255, 102);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
